@@ -1,0 +1,30 @@
+[
+    {
+        "actuator": "EXHAUST_FAN",
+        "days": [
+            "Senin",
+            "Selasa",
+            "Rabu",
+            "Kamis",
+            "Jumat",
+            "Sabtu",
+            "Minggu"
+        ],
+        "everyday": true,
+        "id": "1792276156",
+        "off": "06:34",
+        "on": "06:31"
+    },
+    {
+        "actuator": "EXHAUST_FAN",
+        "days": [
+            "Senin",
+            "Sabtu",
+            "Minggu"
+        ],
+        "everyday": false,
+        "id": "1792276189",
+        "off": "08:30",
+        "on": "08:00"
+    }
+]
